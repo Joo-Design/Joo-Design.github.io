@@ -81,7 +81,7 @@ header a:hover{
 /*showcase*/
 #showcase{
 	min-height:400px;
-	background:url('../pictures/MOOI LOGOTJE.jpg') no-repeat 110px 40px;
+	background:url('../pictures/MOOI LOGOTJE.jpg');
 	text-align: center;
 	color:#021631
 }
