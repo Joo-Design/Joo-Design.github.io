@@ -82,8 +82,9 @@ header a:hover{
 #showcase{
 	min-height:400px;
 	background:url('../pictures/haarlijn-joo-shirtjoo.png');
-	text-align: center;
-	color:#021631
+	 background-repeat: no-repeat;
+	text-align: center;	
+	color:#021631;
 }
 
 #showcase .highlight{
