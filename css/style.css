@@ -81,7 +81,7 @@ header a:hover{
 /*showcase*/
 #showcase{
 	min-height:400px;
-	background:url('../pictures/het logo is klaar.png')100px,0px;
+	background:url('../pictures/het logo is klaar.png')-100px,0px;
 	 background-repeat: no-repeat;
 	text-align: center;	
 	color:	#00ff00;
