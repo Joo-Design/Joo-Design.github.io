@@ -34,7 +34,7 @@ header ul{
 
 /*header*/
 header{
-	background:#35424a;
+	background:#444251;
 	color:#ffffff;
 	padding-top:30px;
 	min-height:70px;
@@ -84,7 +84,7 @@ header a:hover{
 	background:url('../pictures/het logo is klaar.png');
 	 background-repeat: no-repeat;
 	text-align: center;	
-	color:#021631;
+	color:#444251;
 }
 
 #showcase .highlight{
