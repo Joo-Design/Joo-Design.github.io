@@ -142,6 +142,12 @@ margin-top:15px;
 	width:500px;
 }
 
+#boxes .box{
+	float:left;
+	display:inline;
+	padding: 0 20px 0 20px;
+}
+
 /*sidebar*/
 aside#sidebar{
 	float:right;
@@ -173,10 +179,7 @@ ul#service li{
 	margin-bottom:5px;
 	background:#e6e6e6;
 }
-#boxes .box{
-	float:left;
-	display:inline;
-	padding: 0 20px 0 20px;
+
 
 /*footer*/
 footer{
