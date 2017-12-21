@@ -142,12 +142,6 @@ margin-top:15px;
 	width:500px;
 }
 
-#boxes .box{
-	float:left;
-	display:inline;
-	padding: 0 20px 0 20px;
-}
-
 /*sidebar*/
 aside#sidebar{
 	float:right;
