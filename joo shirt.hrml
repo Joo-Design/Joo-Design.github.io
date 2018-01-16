@@ -1,1 +1,55 @@
-
+<!DOCTYPE html>
+<html>
+	<head>	
+    <meta charset="utf-8">	
+    <meta name="viewport" content="width=device-width">	
+    <meta name="description" content="Een hele mooie website om Joo shirts te kopen">		
+    <meta name="keywords"content="Joo, T-shirts, Inside Joo's">		
+    <meta name="Author" content="Joo-Design">		 		
+    <title>Joo-Shop|over Joo-Shirts</title>		
+    <link href="./css/style.css" type="text/css" rel="stylesheet">	
+  </head>
+	  <body>		
+      <header>		
+        <div class="container">	
+          <div id="branding">	
+           <h1><span class="highlight">Joo</span>-Shirts</h1>	
+          </div>				
+          <nav>			
+            <ul>			
+              <li><a href="index.html">Home</a></li>			
+              <li><a href="Over Joo-Shirts.html">Over Joo-Shirts</a></li>	
+              <li><a href="service.html">service</a></li>					
+              <li class="current"><a href="joo.html">Joo-Petten</a></li>			
+            </ul>		
+          </nav>			
+          </div>	
+      </header>	
+    <section id="Nieuws">	
+      <div id="container">			
+        <h1>Krijg het laatste <span class="highlight">Joo</span> nieuws</h1>			
+        <form>			
+          <input type="email" placeholder="Enter Email...">	
+          <button type="submit" class="button_1">subscribe</button>	
+        </form>	
+       </div>	
+    </section>		
+    <section id="main">			
+      <div class="container">	
+        <article id="main-col">	
+          <img src="../pictures/joo klassiek shirt.png g" alt="joo Pet">			
+          <img src="../pictures/ron jans met shirt.png " alt="joo Pet">				
+        </article>	
+        <aside id="sidebar">	
+          <div class="dark">	
+            <h3>wat doet <span class="highlight">Joo</span>-Design</h3>			
+            <p>Joo-Design maakt Joo Shirts en verkoopt ze overal op de wereld</p>					
+          </div>			
+        </aside>			
+      </div>		
+    </section>			
+    <footer>		
+      <p>Joo-design, Copyright &copy; 2017</p>		
+    </footer>	
+  </body>
+</html>
