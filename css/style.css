@@ -3,6 +3,26 @@ body{
 	pading:0;
 	margin:0;
 	background-color:#f4f4f4;
+	/* unvisited link */
+a:link {
+    color: red;
+}
+
+/* visited link */
+a:visited {
+    color: green;
+}
+
+/* mouse over link */
+a:hover {
+	color: hotpink;
+}
+
+/* selected link */
+a:active {
+    	color: blue;
+}
+
 }
 /*global*/
 .container{
@@ -31,27 +51,6 @@ header ul{
 	margin-top:10px;
 	margin-bottom:10px;
 }
-
-/* unvisited link */
-a:link {
-    color: red;
-}
-
-/* visited link */
-a:visited {
-    color: green;
-}
-
-/* mouse over link */
-a:hover {
-    color: hotpink;
-}
-
-/* selected link */
-a:active {
-    color: blue;
-}
-Try it Yourself »
 
 /*header*/
 header{
