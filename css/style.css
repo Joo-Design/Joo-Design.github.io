@@ -32,6 +32,11 @@ header ul{
 	margin-bottom:10px;
 }
 
+a:link{
+	text-decoration:none;
+	color:#ffffff;
+}
+
 /*header*/
 header{
 	background:#444251;
