@@ -143,7 +143,7 @@ margin-top:15px;
 #boxes .box img{
 	width:500px;
 }
-.box a:link{
+#boxes .box a:link{
 	text-decoration:none;
 	color:#ffffff;
 }
