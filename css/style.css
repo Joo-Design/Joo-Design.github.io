@@ -148,6 +148,11 @@ margin-top:15px;
 	color:black;
 }
 
+#boxes .box a:visited{
+	text-decoration:none;
+	color:black;
+}
+
 /*nieuws*/
 #Nieuws .highlight{
 	color:#ff8400;
