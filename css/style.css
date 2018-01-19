@@ -32,10 +32,7 @@ header ul{
 	margin-bottom:10px;
 }
 
-.linkje a:link{
-	text-decoration:none;
-	color:#ffffff;
-}
+
 
 /*header*/
 header{
@@ -146,6 +143,12 @@ margin-top:15px;
 #boxes .box img{
 	width:500px;
 }
+.box a:link{
+	text-decoration:none;
+	color:#ffffff;
+}
+
+/*nieuws*/
 #Nieuws .highlight{
 	color:#ff8400;
 	font-weight:bold;
